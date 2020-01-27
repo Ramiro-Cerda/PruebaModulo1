@@ -1,0 +1,132 @@
+
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+hr {
+  width: 90%;
+  border-color: #025959;
+}
+
+
+/* Estilo de nav */
+.color-nav {
+  background-color: #025959;
+}
+.navbar a {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+/* fin de Estilo de nav */
+
+
+/* Estilo de header */
+.cabecera {
+text-align: right;
+background-image: url('../img/foto-header.png');
+background-repeat: no-repeat;
+background-size: cover;
+color: #ffffff;
+text-shadow: 0.125em 0.25em 0.125em #025959;
+padding-top: 200px;
+padding-bottom: 200px;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: 700;
+}
+.header h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+}
+/* Fin de Estilo de header */
+
+
+/* About */
+.sobre-mi {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+  background-color: #F2E0C9;
+  color: #000000;
+}
+.sobre-mi h1{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+}
+/* Fin de About */
+
+
+/* Experiencias */
+.experiencias h1 {
+  text-align: center;
+  margin: 1em auto;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  color: #A0A603;
+}
+.iconos {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  color: #A0A603;
+}
+/* Fin de Experiencias */
+
+/* Trabajos */
+.trabajos {
+  background-color: #04BFBF;
+  color: #ffffff;
+  text-align: center;
+  padding: 40px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+}
+/* Fin de Trabajos */
+
+
+
+
+/* Estilo de newsletter */
+.newsletter {
+  background-color: #ffffff;
+  color: #A0A603;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  padding: 100px;
+}
+
+.newsletter h1 {
+  color: #A0A603;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+}
+.newsletter h3 {
+  color: #A0A603;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+}
+
+
+
+/* Estilo de footer */
+footer {
+  text-align: center;
+  color: #ffffff;
+}
+
+
+/*footer*/
+footer {
+padding: 1.125rem;
+}
+
+.oscuro {
+background: #000f08;
+color: #ffffff;
+}
+
+.oscuro a{
+color: #ffffff;
+text-decoration: none;
+}
